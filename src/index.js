@@ -6,7 +6,6 @@ import { Notify } from 'notiflix/build/notiflix-notify-aio';
 
 
 const searchPicForm = document.querySelector('#search-form');
-const resultBlock = document.querySelector('.gallery');
 
 let query = '';
 
